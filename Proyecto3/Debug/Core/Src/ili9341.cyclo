@@ -1,0 +1,13 @@
+../Core/Src/ili9341.c:25:6:LCD_Init	1
+../Core/Src/ili9341.c:131:6:LCD_CMD	2
+../Core/Src/ili9341.c:143:6:LCD_DATA	2
+../Core/Src/ili9341.c:155:6:SetWindows	1
+../Core/Src/ili9341.c:172:6:LCD_Clear	3
+../Core/Src/ili9341.c:188:6:H_line	2
+../Core/Src/ili9341.c:205:6:V_line	2
+../Core/Src/ili9341.c:222:6:Rect	1
+../Core/Src/ili9341.c:233:6:FillRect	3
+../Core/Src/ili9341.c:258:6:LCD_Print	11
+../Core/Src/ili9341.c:322:6:LCD_Bitmap	3
+../Core/Src/ili9341.c:347:6:LCD_Sprite	6
+../Core/Src/ili9341.c:385:6:LCD_ImageFromSD	8
